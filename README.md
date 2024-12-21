@@ -26,6 +26,6 @@
 <!-- Contact Me Section -->
 ## Connect with Me
 
-[![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/iamknight_a)
-[![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iamknight___a)
-[![X](https://img.shields.io/badge/X-blue?style=for-the-badge&logo=x&logoColor=white)](https://x.com/morshus1)
+[![Telegram](https://img.shields.io/badge/Telegram-00A9E0~0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/iamknight_a)
+[![Instagram](https://img.shields.io/badge/Instagram-833AB4~FD1D1D~FDCB82~F7B5B5?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iamknight___a)
+[![X](https://img.shields.io/badge/X-1DA1F2~1A91DA?style=for-the-badge&logo=x&logoColor=white)](https://x.com/morshus1)
