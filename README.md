@@ -26,6 +26,6 @@
 <!-- Contact Me Section -->
 ## Connect with Me
 
-- [📬]:(https://github.com/CLorant/readme-social-icons/blob/main/medium/filled/telegram.svg) **Telegram:** [@iamknight_a](https://t.me/iamknight_a)
-- (https://github.com/CLorant/readme-social-icons/blob/main/medium/filled/instagram.svg) **Instagram:** [iamknight___a](https://www.instagram.com/iamknight___a)
-- (https://github.com/CLorant/readme-social-icons/blob/main/medium/filled/twitter-x.svg) **X (formerly Twitter):** [@morshus1](https://x.com/morshus1)
+[![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/iamknight_a)
+[![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iamknight___a)
+[![X](https://img.shields.io/badge/X-blue?style=for-the-badge&logo=x&logoColor=white)](https://x.com/morshus1)
