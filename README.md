@@ -27,5 +27,5 @@
 ## Connect with Me
 
 [![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/iamknight_a)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iamknight___a)
+[![Instagram](https://img.shields.io/badge/Instagram-f9ce34?ee2a7b?6228d7?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iamknight___a)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/morshus1)
