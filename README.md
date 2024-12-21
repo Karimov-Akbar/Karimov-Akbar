@@ -15,12 +15,12 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Karimov-Akbar&show_icons=true&theme=red" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Karimov-Akbar&show_icons=true&theme=transparent&title_color=#FF0000&text_color=#FF0000" alt="GitHub Stats">
 </p>
 
 <!-- Top Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karimov-Akbar&layout=compact&theme=red" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karimov-Akbar&layout=compact&theme=transparent&title_color=#FF0000&text_color=#FF0000" alt="Top Languages">
 </p>
 
 <!-- Contact Me Section -->
