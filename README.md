@@ -14,14 +14,17 @@
 <!-- GitHub Stats -->
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Karimov-Akbar&show_icons=true&theme=transparent&title_color=FF0000&text_color=FF0000&icon_color=FFFFFF" alt="GitHub Stats">
-</p>
-
-<!-- Top Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karimov-Akbar&layout=compact&theme=transparent&title_color=FF0000&text_color=FFFFFF" alt="Top Languages">
-</p>
+<!-- GitHub Stats and Top Languages Side by Side -->
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <!-- GitHub Stats -->
+  <div style="flex: 1; padding-right: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Karimov-Akbar&show_icons=true&theme=transparent&title_color=FF0000&text_color=FF0000&icon_color=FFFFFF" alt="GitHub Stats">
+  </div>
+  <!-- Top Languages -->
+  <div style="flex: 1; padding-left: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karimov-Akbar&layout=compact&theme=transparent&title_color=FF0000&text_color=FFFFFF" alt="Top Languages">
+  </div>
+</div>
 
 <!-- Contact Me Section -->
 ## Connect with Me
