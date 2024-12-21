@@ -1,6 +1,6 @@
 <!-- Header with Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Akbar!;Web+Developer+%7C+Student+at+KIUT;Passionate+about+Open+Source" alt="Typing Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Akbar!;Web+Developer+%7C+Student+at+KIUT;Passionate+about+Open+Source" alt="Typing Animation">
 </p>
 
 <!-- About Me Section -->
