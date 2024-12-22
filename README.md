@@ -20,6 +20,6 @@
 <!-- Contact Me Section -->
 ## Connect with Me
 
-[![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/iamknight_a)
-[![Instagram](https://img.shields.io/badge/Instagram-833ab4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iamknight___a)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/morshus1)
+[![Telegram](https://img.shields.io/badge/Telegram-CF0000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/iamknight_a)
+[![Instagram](https://img.shields.io/badge/Instagram-CF0000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iamknight___a)
+[![X](https://img.shields.io/badge/X-CF0000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/morshus1)
