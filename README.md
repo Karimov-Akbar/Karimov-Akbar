@@ -1,7 +1,7 @@
 <!-- GIF Section -->
 ![Knight](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHNtODNzZjhqYTFpMmR0N3hqc2VvbGZ6czBwbWU4Y2Jqbm9yZ3ZmbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iamIahPLWmo4tGiyDz/giphy.gif)
 <!-- About Me Section -->
-## About me
+## About me ⚔
 
 - 🌍 **Location:** Uzbekistan
 - 🎓 **Education:** Student at KIUT University
@@ -9,7 +9,7 @@
 - 🎮 **Hobbies:** Gaming, Exploring New Technologies, Reading Books
 
 <!-- GitHub Stats -->
-## GitHub Stats
+## GitHub Stats ⚔
 
 <!-- GitHub Stats and Top Languages Side by Side -->
 <div style="display: flex; justify-content: space-between; align-items: center;">
@@ -20,7 +20,7 @@
 </div>
 
 <!-- Contact Me Section -->
-## Connect with Me
+## Connect with Me ⚔
 
 [![Telegram](https://img.shields.io/badge/Telegram-A70000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/iamknight_a)
 [![Instagram](https://img.shields.io/badge/Instagram-A70000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iamknight___a)
