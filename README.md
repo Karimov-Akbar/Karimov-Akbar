@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Fzenl4bTFwMWw5Y3Fzczl4MW4wc3VmbDZtNDJwN3VydmtjcnY2OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bHSkKRvkRvy5chUBBp/giphy.gif" alt="Coding GIF" width="600">
+  <img src="https://media4.giphy.com/media/bHSkKRvkRvy5chUBBp/giphy.gif?cid=6c09b952f3v6cubm9pi4b1tttx7oq63mpfcf0et8o6ncvxhj&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" alt="Coding GIF" width="600">
 </p>
 <!-- About Me Section -->
 ## About Me
