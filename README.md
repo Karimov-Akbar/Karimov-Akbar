@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Fzenl4bTFwMWw5Y3Fzczl4MW4wc3VmbDZtNDJwN3VydmtjcnY2OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bHSkKRvkRvy5chUBBp/giphy.gif" alt="Coding GIF" width="600">
+</p>
 <!-- About Me Section -->
 ## About Me
 
