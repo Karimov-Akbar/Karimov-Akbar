@@ -3,7 +3,7 @@
 
 - 🌍 **Location:** Uzbekistan
 - 🎓 **Education:** Student at KIUT University
-- 💻 **Interests:** Web Development, Open Source Contributions
+- 💻 **Interests:** Web Development
 - 🎮 **Hobbies:** Gaming, Exploring New Technologies, Reading Books
 
 <!-- GitHub Stats -->
