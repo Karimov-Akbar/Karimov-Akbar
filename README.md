@@ -13,7 +13,7 @@
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <!-- GitHub Stats -->
   <div style="flex: 1; padding-right: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Karimov-Akbar&show_icons=true&theme=transparent&title_color=FF0000&text_color=FF0000&icon_color=FFFFFF&border_color=FF0000" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Karimov-Akbar&show_icons=true&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&icon_color=FF0000&border_color=FF0000" alt="GitHub Stats">
   </div>
 </div>
 
