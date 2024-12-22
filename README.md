@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://www.animatedimages.org/data/media/609/animated-knight-image-0001.gif" alt="Coding GIF" width="600">
-</p>
 <!-- About Me Section -->
 ## About Me
 
