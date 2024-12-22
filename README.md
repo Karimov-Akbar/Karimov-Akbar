@@ -1,6 +1,6 @@
 <!-- GIF Section -->
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG5yZHRlbTMyanl2eXNrY2J2c3UyNzBucnp6eHF5a2VjY2ZkNmt3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mK9qk79AMjtbW/giphy.gif" alt="Coding GIF" width="600">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHduMjQyNnM2Y3U4Nm1wZmN4dGd5N3FycHJhb2p4a2dvcXhzNXZ4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bHSkKRvkRvy5chUBBp/giphy.gif" alt="Coding GIF" width="600">
 </p>
 <!-- About Me Section -->
 ## About Me
