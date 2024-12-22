@@ -1,3 +1,5 @@
+<!-- GIF Section -->
+![Knight](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG5yZHRlbTMyanl2eXNrY2J2c3UyNzBucnp6eHF5a2VjY2ZkNmt3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mK9qk79AMjtbW/giphy.gif)
 <!-- About Me Section -->
 ## About Me
 
