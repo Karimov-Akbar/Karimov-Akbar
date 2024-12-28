@@ -20,7 +20,7 @@
 </div>
 
 <!-- Contact Me Section -->
-## Connect with Me ⚔
+## Contact with Me ⚔
 
 [![Telegram](https://img.shields.io/badge/Telegram-A70000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/iamknight_a)
 [![Instagram](https://img.shields.io/badge/Instagram-A70000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iamknight___a)
