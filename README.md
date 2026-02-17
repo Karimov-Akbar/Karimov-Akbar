@@ -11,13 +11,6 @@
 <!-- GitHub Stats -->
 ## GitHub Stats ⚔
 ![Stats](./profile/stats.svg)
-<!-- GitHub Stats and Top Languages Side by Side -->
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <!-- GitHub Stats -->
-  <div style="flex: 1; padding-right: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Karimov-Akbar&show_icons=true&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&icon_color=CF0000&border_color=CF0000" alt="GitHub Stats">
-  </div>
-</div>
 
 <!-- Contact Me Section -->
 ## Contact with Me ⚔
