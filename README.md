@@ -10,7 +10,7 @@
 
 <!-- GitHub Stats -->
 ## GitHub Stats ⚔
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Karimov-Akbar)](https://github.com/Karimov-Akbar/github-readme-stats)
+![Stats](./profile/stats.svg)
 <!-- GitHub Stats and Top Languages Side by Side -->
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <!-- GitHub Stats -->
