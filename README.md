@@ -3,10 +3,10 @@
 <!-- About Me Section -->
 ## About me ⚔
 
-- 🌍 **Location:** Uzbekistan
-- 🎓 **Education:** Student at KIUT University
-- 💻 **Interests:** Web Development
-- 🎮 **Hobbies:** Gaming, Exploring New Technologies, Reading Books
+- **Location:** Uzbekistan
+- **Education:** Student at KIUT University
+- **Interests:** Web Development
+- **Hobbies:** Gaming, Exploring New Technologies, Reading Books
 
 <!-- GitHub Stats -->
 ## GitHub Stats ⚔
