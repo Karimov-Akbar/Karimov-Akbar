@@ -10,8 +10,7 @@
 
 <!-- GitHub Stats -->
 ## GitHub Stats ⚔
-[![Akbar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Karimov-Akbar&show_icons=true&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&icon_color=CF0000&border_color=CF0000)](https://github.com/Karimov-Akbar)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karimov-Akbar&layout=compact&line_height=40&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&border_color=CF0000)](https://github.com/Karimov-Akbar)
+[![Stats](https://github-readme-stats.vercel.app/api?username=Karimov-Akbar&hide_title=true&show_icons=true&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&icon_color=CF0000&border_color=CF0000)](https://github.com/Karimov-Akbar)
 
 <!-- Contact Me Section -->
 ## Contact with Me ⚔
