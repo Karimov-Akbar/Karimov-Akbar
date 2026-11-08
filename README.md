@@ -12,12 +12,9 @@
 ## GitHub Stats ⚔
 <a href="https://github.com/Karimov-Akbar">
   <picture>
-    <!-- Тёмная тема: белый текст и белый круг ранга -->
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Karimov-Akbar&hide_title=true&show_icons=true&theme=transparent&text_color=FFFFFF&ring_color=FFFFFF&icon_color=CF0000&border_color=CF0000">
-    <!-- Светлая тема: тёмный текст и тёмный круг ранга -->
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Karimov-Akbar&hide_title=true&show_icons=true&theme=transparent&text_color=24292F&ring_color=24292F&icon_color=CF0000&border_color=CF0000">
-    <!-- Запасной вариант -->
-    <img alt="Akbar's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Karimov-Akbar&hide_title=true&show_icons=true&theme=transparent&text_color=FFFFFF&ring_color=FFFFFF&icon_color=CF0000&border_color=CF0000">
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./profile/stats-light.svg">
+    <img alt="Akbar's GitHub Stats" src="./profile/stats-dark.svg">
   </picture>
 </a>
 
