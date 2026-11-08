@@ -1,0 +1,39 @@
+name: Update stats cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # раз в сутки
+  workflow_dispatch:       # кнопка ручного запуска
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Stats card (dark)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=Karimov-Akbar&hide_title=true&show_icons=true&theme=transparent&text_color=FFFFFF&ring_color=FFFFFF&icon_color=CF0000&border_color=CF0000
+          path: profile/stats-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Stats card (light)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=Karimov-Akbar&hide_title=true&show_icons=true&theme=transparent&text_color=24292F&ring_color=24292F&icon_color=CF0000&border_color=CF0000
+          path: profile/stats-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "Update stats cards" || exit 0
+          git push
