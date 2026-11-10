@@ -4,8 +4,8 @@
 ## About me ⚔
 
 - **Location:** Uzbekistan
-- **Education:** Student at KIUT University
-- **Interests:** Web Development
+- **Education:** Bachelor's Degree in Information Systems Engineering, KIUT
+- **Interests:** Web Development, QA Testing
 - **Hobbies:** Gaming, Exploring New Technologies, Reading Books
 
 <!-- GitHub Stats -->
